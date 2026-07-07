@@ -1,4 +1,4 @@
-##👋 Hi, I'm Deniz
+## Hi, I'm Deniz
 
 Software Engineer focused on .NET backend development, software architecture, and financial systems.
 
